@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://github.com/AbdKenn/serverless-guestbook.git';
+const apiUrl = 'https://123c3730.us-south.apigw.appdomain.cloud/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
